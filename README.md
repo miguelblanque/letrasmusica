@@ -14,6 +14,15 @@ Busqueda de una cancion
 
 
 
+
+
+
+
+
+Instalacion y ejecucion
+
+
+
 npm create vite@latest
 
 
